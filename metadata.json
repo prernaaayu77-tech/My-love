@@ -1,0 +1,7 @@
+{
+  "name": "AYUSH AI - Vedic Voice Generator",
+  "description": "An advanced Text-to-Speech and Voice Changer platform specializing in AYUSH wisdom, featuring human-like voices and high-quality audio downloads.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
